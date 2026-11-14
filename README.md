@@ -112,8 +112,6 @@ electric-vehicle-population-analysis/
 
 The project uses the Electric Vehicle Population dataset, containing information about electric vehicle manufacturers, models, model years, electric range, vehicle type, state, and CAFV eligibility.
 
-**Dataset Source:** Add the original dataset source link here.
-
 ## Author
 
 Created as a Data Analytics project using Microsoft Power BI.
